@@ -1,7 +1,7 @@
 # Bienvenue sur le profil GitHub d'Adnan Ifrah !
 
 
-## Développeur Passionné | Spécialisé en MERN Stack | JAVA SPRING   <<FULL STACK>>
+## Développeur Passionné | Spécialisé en MERN Stack | JAVA SPRING   **FULL STACK**
 
 🌐 Travaillant sur des projets web innovants | 🌟 Contribuant à l'open source
 
