@@ -1,9 +1,7 @@
 # Bienvenue sur le profil GitHub d'Adnan Ifrah !
 
-![Visitors](https://visitor-badge.glitch.me/badge?page_id=ifrah-adnan.ifrah-adnan)
-![GitHub Followers](https://img.shields.io/github/followers/ifrah-adnan?style=social)
 
-## Développeur Passionné | Spécialisé en MERN Stack
+## Développeur Passionné | Spécialisé en MERN Stack | JAVA SPRING   **<<FULL STACK>>**
 
 🌐 Travaillant sur des projets web innovants | 🌟 Contribuant à l'open source
 
