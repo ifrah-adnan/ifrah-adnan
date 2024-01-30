@@ -23,7 +23,6 @@
 ### Statistiques GitHub
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ifrah-adnan&show_icons=true&theme=radical)
+### Langages utilisés dans mes dépôts GitHub
 
-### Langages les Plus Utilisés
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ifrah-adnan&layout=compact)
+![Langages utilisés](https://github-readme-stats.vercel.app/api/top-langs/?username=ifrah-adnan&layout=compact&theme=radical)
