@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Adnan Ifrah</h1>
 <h3 align="center">Software Enginner</h3>
 
--⚡Proficient in Java ,JEE Architecture and Middleware and MERN stack development
+-⚡Proficient in **Java, JEE Architecture and Middleware and MERN stack development**
 - 🔭 I’m currently working on **MERN APP**
 
 <h3 align="left">Connect with me:</h3>
