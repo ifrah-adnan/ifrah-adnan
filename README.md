@@ -10,7 +10,7 @@ For any questions or suggestions, feel free to reach out to me:
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/adnan-ifrah-a5286a270/)
 
-[![Gmail](https://img.shields.io/badge/-Gmail-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ifrahadnan61@gmail.com)
+[![Gmail](https://img.shields.io/badge/-Gmail-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ifrahadnan61@gmail.com) : ***ifrahadnan61@gmail.com***
 
 
 <h3 align="left">Languages and Tools:</h3>
