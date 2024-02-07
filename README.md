@@ -2,7 +2,7 @@
 <h3 align="center">Software Engineer</h3>
 
 - 🔭 I’m currently working on **MERN APP**
-
+ <span><em>Proficient in Java Spring and MERN stack development</em></span>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/adnan-ifrah-a5286a270/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="adnan ifrah" height="30" width="40" /></a>
