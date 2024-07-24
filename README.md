@@ -1,8 +1,9 @@
 <h1 align="center">Hi 👋, I'm Adnan Ifrah</h1>
 <h3 align="center">Software Enginner</h3>
 
--⚡Proficient in **Java, JEE Architecture and Middleware (Spring Boot, MVC) and MERN stack development**
-- 🔭 I’m currently working on **MERN APP**
+⚡ Expert in full-stack web development, with a strong command of Java, JEE Architecture, and Middleware (Spring Boot, MVC), as well as MERN stack development.
+🔒 Specialized in security applications, with advanced skills in Spring Boot and secure architectures.
+
 
 ## Contact
 
