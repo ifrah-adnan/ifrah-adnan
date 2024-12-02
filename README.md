@@ -12,7 +12,7 @@
 
 ## 🚀 About Me
 
-I'm a passionate Software Engineer specializing in full-stack development and security applications. With expertise in Java, Spring, and the MERN stack, I'm dedicated to crafting robust, scalable, and secure solutions that drive innovation.
+I'm a passionate Software Engineer specializing in full-stack development, security applications, and DevOps practices. With expertise in Java, Spring, the MERN stack, containerization, and Kubernetes, I am dedicated to crafting robust, scalable, and secure solutions that drive innovation. My focus on continuous integration, deployment, and efficient system management ensures the delivery of high-quality applications that meet modern technological standards.
 
 ![Profile Views](https://komarev.com/ghpvc/?username=ifrah-adnan&color=blueviolet)
 
