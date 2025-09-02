@@ -43,9 +43,9 @@ I am a passionate **Software Engineer** with expertise in **full-stack developme
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=black" alt="JavaScript">
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP">
 </p>
 
 ### Frameworks & Libraries
@@ -79,16 +79,11 @@ I am a passionate **Software Engineer** with expertise in **full-stack developme
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ifrah-adnan&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ifrah-adnan&layout=compact&langs_count=8&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ifrah-adnan&layout=compact&langs_count=6&theme=tokyonight&hide_border=true&bg_color=0d1117"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ifrah-adnan&theme=tokyonight" alt="GitHub Streak"/>
-</div>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ifrah-adnan&theme=tokyonight&column=6&margin-w=15&margin-h=15&no-bg=false&no-frame=false" alt="GitHub Trophies"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ifrah-adnan&theme=tokyonight&hide_border=true&background=0d1117" alt="GitHub Streak"/>
 </div>
 
 ---
@@ -108,7 +103,7 @@ I am a passionate **Software Engineer** with expertise in **full-stack developme
 **Software Engineer & Security Specialist**
 - **Full-Stack Development**: End-to-end application development using Java Spring Boot and MERN stack
 - **Security Implementation**: Developed robust authentication and authorization systems
-- **Database Design**: Architected and optimized relational and NoSQL database solutions
+- **Database Design**: Architected and optimized relational and NoSQL database solutions  
 - **DevOps & CI/CD**: Implemented containerization and automated deployment pipelines
 - **Code Quality**: Maintained high code quality standards through testing and code reviews
 
@@ -117,11 +112,11 @@ I am a passionate **Software Engineer** with expertise in **full-stack developme
 ## 🌟 Featured Projects
 
 <div align="center">
-  <a href="https://github.com/ifrah-adnan/project1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ifrah-adnan&repo=project1&theme=tokyonight" alt="Featured Project 1">
+  <a href="https://github.com/ifrah-adnan">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ifrah-adnan&repo=project-management-system&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Project Management System">
   </a>
-  <a href="https://github.com/ifrah-adnan/project2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ifrah-adnan&repo=project2&theme=tokyonight" alt="Featured Project 2">
+  <a href="https://github.com/ifrah-adnan">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ifrah-adnan&repo=security-dashboard&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Security Dashboard">
   </a>
 </div>
 
@@ -135,12 +130,6 @@ I am a passionate **Software Engineer** with expertise in **full-stack developme
 - 🌐 **Community**: Sharing knowledge through technical writing and mentoring
 
 ---
-
-## 📈 GitHub Activity Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ifrah-adnan&theme=tokyo-night&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" alt="GitHub Activity Graph">
-</div>
 
 ---
 
