@@ -76,18 +76,6 @@ I am a passionate **Software Engineer** with expertise in **full-stack developme
 
 ---
 
-## 📊 GitHub Analytics
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ifrah-adnan&layout=compact&langs_count=6&theme=tokyonight&hide_border=true&bg_color=0d1117"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ifrah-adnan&theme=tokyonight&hide_border=true&background=0d1117" alt="GitHub Streak"/>
-</div>
-
----
-
 ## 🏆 Professional Achievements
 
 - 🔒 **Security Architecture**: Designed and implemented secure systems for enterprise clients
@@ -106,19 +94,6 @@ I am a passionate **Software Engineer** with expertise in **full-stack developme
 - **Database Design**: Architected and optimized relational and NoSQL database solutions  
 - **DevOps & CI/CD**: Implemented containerization and automated deployment pipelines
 - **Code Quality**: Maintained high code quality standards through testing and code reviews
-
----
-
-## 🌟 Featured Projects
-
-<div align="center">
-  <a href="https://github.com/ifrah-adnan">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ifrah-adnan&repo=project-management-system&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Project Management System">
-  </a>
-  <a href="https://github.com/ifrah-adnan">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ifrah-adnan&repo=security-dashboard&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Security Dashboard">
-  </a>
-</div>
 
 ---
 
@@ -154,3 +129,4 @@ I'm always excited to discuss new opportunities, innovative projects, and share 
 ⭐ **From [Adnan Ifrah](https://github.com/ifrah-adnan)** - *"Code with passion, build with purpose"*
 
 </div>
+
