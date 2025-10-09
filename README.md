@@ -31,7 +31,7 @@ I am a passionate **Software Engineer** with expertise in **full-stack developme
 - 🔭 Currently working on distributed systems and cloud-native applications
 - 🌱 Learning advanced Kubernetes orchestration and security protocols
 - 👯 Looking to collaborate on innovative projects that solve real-world problems
-- 💬 Ask me about Java, Spring Boot, React, Node.js, or DevOps
+- 💬 Ask me about Java, Spring Boot, React, Nextjs, Node.js, Nestjs or DevOps
 - ⚡ Fun fact: I enjoy architecting secure systems and mentoring developers
 
 ---
@@ -129,6 +129,7 @@ I'm always excited to discuss new opportunities, innovative projects, and share 
 ⭐ **From [Adnan Ifrah](https://github.com/ifrah-adnan)** - *"Code with passion, build with purpose"*
 
 </div>
+
 
 
 
