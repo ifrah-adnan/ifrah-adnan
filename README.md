@@ -1,7 +1,7 @@
 <div align="center">
 
-# �‍💻 Adnan Ifrah
-### Senior Full-Stack Developer & Software Architect
+# Adnan Ifrah
+### Full-Stack Developer & Software Architect
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=800&height=100&lines=🚀+Building+Next-Gen+Web+Applications;🔐+Security-First+Architecture+Expert;⚡+Full-Stack+%7C+DevOps+%7C+Cloud+Solutions)](https://git.io/typing-svg)
 
@@ -13,8 +13,7 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=web&logoColor=white)](#)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=ifrah-adnan&color=00d9ff&style=for-the-badge&label=PROFILE+VIEWS)
-![Years Badge](https://badges.pufler.dev/years/ifrah-adnan?style=for-the-badge&color=00d9ff)
-![Repos Badge](https://badges.pufler.dev/repos/ifrah-adnan?style=for-the-badge&color=00d9ff)
+
 
 </div>
 
@@ -255,6 +254,7 @@ I'm always passionate about discussing **innovative projects**, **cutting-edge t
 ![Wave](https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif)
 
 </div>
+
 
 
 
