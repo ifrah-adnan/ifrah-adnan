@@ -132,32 +132,7 @@
 <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100">
 </div>
 
-## 💼 Featured Projects
 
-<div align="center">
-
-### 🛒 Purchase Tracker System
-**Enterprise E-commerce Management Platform**
-- 🚀 **Tech Stack**: Next.js, TypeScript, Prisma, PostgreSQL, Tailwind CSS
-- 🔧 **Features**: Invoice Generation, User Management, Real-time Analytics, Role-based Permissions
-- 📊 **Impact**: Handles 1000+ daily transactions with 99.9% uptime
-- 🔗 [Repository](https://github.com/ifrah-adnan/App-Purchase) | [Live Demo](#)
-
-### 🔐 Security Dashboard
-**Real-time Threat Monitoring System**
-- 🚀 **Tech Stack**: Spring Boot, React, Redis, WebSocket, Docker
-- 🔧 **Features**: Live threat detection, Alert system, Security analytics
-- 📊 **Impact**: Reduced security response time by 60%
-
-### 📈 Analytics Platform
-**Business Intelligence & Data Visualization**
-- 🚀 **Tech Stack**: Python, FastAPI, PostgreSQL, React, Chart.js
-- 🔧 **Features**: Custom dashboards, Real-time data processing, Export functionality
-- 📊 **Impact**: Improved decision-making speed by 45%
-
-</div>
-
----
 
 ## 🎯 Current Focus & Goals
 
@@ -253,6 +228,7 @@ I'm always passionate about discussing **innovative projects**, **cutting-edge t
 ![Wave](https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif)
 
 </div>
+
 
 
 
