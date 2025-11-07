@@ -217,7 +217,7 @@ I'm always passionate about discussing **innovative projects**, **cutting-edge t
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=400&size=22&duration=4000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=800&height=80&lines=✨+Thanks+for+visiting+my+digital+space!+✨;🚀+Let's+build+the+future+together!+🚀;💻+Always+ready+for+the+next+challenge!+💻)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=400&size=22&duration=4000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=800&height=100&lines=✨+Thanks+for+visiting+my+digital+space!+✨;🚀+Let's+build+the+future+together!+🚀;💻+Always+ready+for+the+next+challenge!+💻)](https://git.io/typing-svg)
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="600">
 
@@ -228,6 +228,7 @@ I'm always passionate about discussing **innovative projects**, **cutting-edge t
 ![Wave](https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif)
 
 </div>
+
 
 
 
