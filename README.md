@@ -3,7 +3,7 @@
 # Adnan Ifrah
 ### Full-Stack Developer & Software Architect
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=800&height=100&lines=🚀+Building+Next-Gen+Web+Applications;🔐+Security-First+Architecture+Expert;⚡+Full-Stack+%7C+DevOps+%7C+Cloud+Solutions)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=800&height=100&lines=🚀+Building+Next-Gen+Web+Applications;🔐+Security-First+Architecture+Expert;⚡+Full-Stack+%7C+DevOps+%7C+Cloud+Solutions      )](https://git.io/typing-svg)
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="800">
 
@@ -254,6 +254,7 @@ I'm always passionate about discussing **innovative projects**, **cutting-edge t
 ![Wave](https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif)
 
 </div>
+
 
 
 
