@@ -23,7 +23,7 @@
 
 <img align="right" alt="GIF" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="350" height="280" />
 
-🚀 **Passionate Software Architect** with **5+ years** of experience building enterprise-grade applications
+🚀 **Passionate Software Architect** with **2+ years** of experience building enterprise-grade applications
 
 🔐 **Security-First Mindset** - Every line of code I write prioritizes security and performance
 
@@ -33,7 +33,6 @@
 
 ### 🎪 What I'm Up To
 
-- 🔭 **Current Project**: Building a comprehensive **Purchase Tracker System** with invoice generation, user management, and real-time analytics
 - 🌱 **Learning**: Advanced **Microservices Architecture**, **Kubernetes Security**, and **AI-powered DevOps**
 - 👯 **Collaboration**: Open to exciting projects in **E-commerce**, **FinTech**, and **Supply Chain Management**
 - 💬 **Ask me about**: System Architecture, Database Design, Security Patterns, or anything tech!
@@ -254,6 +253,7 @@ I'm always passionate about discussing **innovative projects**, **cutting-edge t
 ![Wave](https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif)
 
 </div>
+
 
 
 
