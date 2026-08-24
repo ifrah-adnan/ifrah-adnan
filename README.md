@@ -1,7 +1,7 @@
 <div align="center">
 
 # Adnan Ifrah
-### Full-Stack Developer & Software Architect
+### Full-Stack Developer & Software Architect 
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=800&height=140&lines=🚀+Building+Next-Gen+Web+Applications;⚡+Full-Stack+%7C+DevOps+%7C+Cloud+Solutions;🔐+Security-First+Architecture+Expert;      )](https://git.io/typing-svg) 
 
